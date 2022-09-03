@@ -10,16 +10,16 @@ Welcome to my profile! I am an environmentalist currently aspiring to transition
 
 ```python
 my_profile = {
-  "Pronouns": "she/they",
-  "Coding Languages": ["Python", "HTML", "CSS", "SQL", "VBA", "R"],
-  "Education": {
+  Pronouns: "she/they",
+  Coding_languages: ["Python", "HTML", "CSS", "SQL", "VBA", "R"],
+  Education: {
       2007: "Bachelors in Environmental Science",
       2007: "Bachelors in Community, Environment, and Planning"
       }
-  "Past Background": "Wind Energy Data Analyst",
-  "Currently Learning": ["Arduino", "Rasberry Pi","More Python"],
-  "Hobbies": ["Art", "Exploring nature", "Music Composition", "Photography", "Getting lost in books", "Globe-trotting"],
-  "Technical Fields of Interest": ["UI/UX Design", "Web Development", "Machine Learning", "Blockchain Technology"]
+  Past_background: "Wind Energy Data Analyst",
+  Currently_learning: ["Arduino", "Rasberry Pi","More Python"],
+  Hobbies: ["Art", "Exploring nature", "Music Composition", "Photography", "Getting lost in books", "Globe-trotting"],
+  Technical_fields_of_interest: ["UI/UX Design", "Web Development", "Machine Learning", "Blockchain Technology"]
 }
 ```
 
