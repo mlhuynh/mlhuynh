@@ -1,6 +1,4 @@
-<img align='left' src="https://user-images.githubusercontent.com/112219182/187812736-cf9021fa-e8e9-4d1c-a55a-db0cf4a739d7.jpg" height="200">
-<img align='left' src="https://user-images.githubusercontent.com/112219182/187812980-9ccf4579-dac6-4c0e-b3fc-569db507dd03.gif" width="225">
-<img align='left' src="https://user-images.githubusercontent.com/112219182/187813822-4de1d02c-ab4a-461c-b47b-6be20063dc67.jpg" height="200"><br/>
+![Linh Github Banner](https://user-images.githubusercontent.com/112219182/188278400-b7fc12cc-2089-4e80-8b52-60bacd8af9d6.gif)
 
 <img align='left' src="https://user-images.githubusercontent.com/112219182/188272138-60e62297-a4a6-4cfe-919d-e481493a7386.gif" width="125">
 <p align="justify">
