@@ -18,8 +18,8 @@ my_profile = {
       }
   "Past Background": "Wind Energy Data Analyst",
   "Currently Learning": ["Arduino", "Rasberry Pi","More Python"],
-  "Hobbies": ["Art", "Exploring nature", "Piano", "Photography", "Reading", "Globe-trotting"],
-  "Technical Fields of Interest": ["UI/UX", "Web Development", "AI", "Machine Learning", "Data Science", "Blockchain Technology", "Robotics"]
+  "Hobbies": ["Art", "Exploring nature", "Music Composition", "Photography", "Getting lost in books", "Globe-trotting"],
+  "Technical Fields of Interest": ["UI/UX Design", "Web Development", "Machine Learning", "Blockchain Technology", "Robotics"]
 }
 ```
 
