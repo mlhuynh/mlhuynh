@@ -2,8 +2,9 @@
 
 <img align='left' src="https://user-images.githubusercontent.com/112219182/188272138-60e62297-a4a6-4cfe-919d-e481493a7386.gif" width="125">
 <p align="justify">
-Welcome to my nook of the digital world! I am an environmentalist currently aspiring to transition into software engineering as a self-taught programmer. Although this marks the humble beginning of my journey, I have an insatiable drive to constantly learn and grow. 🌱  My passion for coding lies in ultimately creating useful applications that will add value, establish meaningful user impact, or reshape the future of sustainability. 
+Welcome to my nook of the digital world! I am an environmentalist currently aspiring to transition into software engineering as a self-taught programmer. Although this marks the humble beginning of my journey, I have an insatiable drive to constantly learn and grow. 🌱  My passion for coding lies in ultimately creating useful applications that will add value, establish meaningful user impact, or reshape the future of social justice and sustainability. 
 </p>
+
 
 <img align='left' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="50">
 <h2>&nbsp;A little more about my background and interests...</h2>
@@ -19,7 +20,7 @@ my_profile = {
   Past_background: "Wind Energy Data Analyst",
   Currently_learning: ["Arduino", "Rasberry Pi","More Python"],
   Hobbies: ["Art", "Exploring nature", "Music Composition", "Photography", "Getting lost in books", "Globe-trotting"],
-  Technical_fields_of_interest: ["UI/UX Design", "Web Development", "Machine Learning", "Blockchain Technology"]
+  Technical_fields_of_interest: ["UI/UX Design", "Web Development", "Machine Learning", "Data Science", "Blockchain Technology"]
 }
 ```
 
