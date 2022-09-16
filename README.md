@@ -5,8 +5,6 @@
 Welcome to my nook of the digital world! I am an environmentalist currently aspiring to transition into software engineering as a self-taught programmer. Although this marks the humble beginning of my journey, I have an insatiable drive to constantly learn and grow. 🌱  My passion for coding lies in ultimately creating useful applications that will add value, establish meaningful user impact, or reshape the future of social justice and sustainability. 
 </p>
 
-
-<img align='left' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="50">
 <h2>&nbsp;A little more about my background and interests...</h2>
 
 ```python
@@ -19,12 +17,12 @@ my_profile = {
       }
   Past_background: "Wind Energy Data Analyst",
   Currently_learning: ["Arduino", "Rasberry Pi","More Python"],
-  Hobbies: ["Art", "Exploring nature", "Music Composition", "Photography", "Getting lost in books", "Globe-trotting"],
+  Hobbies: ["Art", "Hiking or exploring nature", "Piano", "Photography", "Getting lost in books", "Globe-trotting"],
   Technical_fields_of_interest: ["UI/UX", "Web Development", "Machine Learning", "Data Science", "Blockchain Technology"]
 }
 ```
 
-<img align='left' src="https://c.tenor.com/sZ94rds4ZqQAAAAM/o2-o2robot.gif" width="60">
+<img align='left' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="50">
 <h2> Currently working on: </h2>
 <img align='left' src="https://www.photofunky.net/output/image/c/2/3/4/c234ad/photofunky.gif" width="275">
 <p align="justify">
