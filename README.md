@@ -10,14 +10,13 @@ Welcome to my nook of the digital world! I am an environmentalist currently aspi
 ```python
 my_profile = {
   Pronouns: "she/they",
-  Coding_languages: ["Python", "HTML", "CSS", "SQL", "VBA", "R"],
+  Coding_languages: ["Python", "HTML/CSS", "SQL", "VBA", "R"],
   Education: {
       2007: "Bachelors in Environmental Science",
       2007: "Bachelors in Community, Environment, and Planning"
       }
-  Past_background: "Wind Energy Data Analyst",
   Currently_learning: ["Arduino", "Rasberry Pi","More Python"],
-  Hobbies: ["Art", "Hiking or exploring nature", "Piano", "Photography", "Getting lost in books", "Globe-trotting"],
+  Hobbies: ["Art", "Hiking/Exploring nature", "Piano", "Photography", "Getting lost in books", "Globe-trotting"],
   Technical_fields_of_interest: ["UI/UX", "Web Development", "Machine Learning", "Data Science", "Blockchain Technology"]
 }
 ```
