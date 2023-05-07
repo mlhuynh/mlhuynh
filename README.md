@@ -27,8 +27,7 @@ my_profile = {
 <p align="justify">
 Courtesy of Dr. Rongzhong Li and the brilliant folks at <a href="https://github.com/PetoiCamp">Petoi</a>, I am currently in the midst of assembling and programming an adorable open-source robot cat named Nybble.  One of my goals is to improve my programming skills enough to the point where I can contribute to my first open source project and learn from others.  More importantly, this <i>pawsome</i> robot cat will be the <i>purrfect</i> <s>distraction</s> companion for my feline...so she doesn't feel compelled to <s>disrupt</s> aid in my coding efforts.
 </p>
-<br>
-<br>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mlhuynh.visitor-badge.id&left_color=cadetblue&right_color=mediumturquoise)
   
 <!---
