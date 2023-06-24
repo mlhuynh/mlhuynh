@@ -15,7 +15,7 @@ my_profile = {
       2007: "Bachelors in Environmental Science",
       2007: "Bachelors in Community, Environment, and Planning"
       }
-  Currently_learning: ["Arduino", "Rasberry Pi","More Python"],
+  Currently_learning: ["More Python", "JavaScript", "React", "HTML/CSS", "Flask"],
   Hobbies: ["Art", "Hiking/Exploring nature", "Piano", "Photography", "Getting lost in books", "Globe-trotting"],
   Technical_fields_of_interest: ["UI/UX", "Web Development", "Machine Learning", "Data Science", "Blockchain Technology"]
 }
