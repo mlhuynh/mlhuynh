@@ -25,11 +25,9 @@ my_profile = {
 <h2> Currently working on: </h2>
 <img align='left' src="https://www.photofunky.net/output/image/c/2/3/4/c234ad/photofunky.gif" width="275">
 <p align="justify">
-Courtesy of Dr. Rongzhong Li and the brilliant folks at <a href="https://github.com/PetoiCamp">Petoi</a>, I am currently in the midst of assembling and programming an adorable open-source robot cat named Nybble.  One of my goals is to improve my programming skills enough to the point where I can contribute to my first open source project and learn from others.  More importantly, this <i>pawsome</i> robot cat will be the <i>purrfect</i> <s>distraction</s> companion for my feline...so she doesn't feel compelled to <s>disrupt</s> aid in my coding efforts.
+Projects from Ada Developers Academy...
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mlhuynh.visitor-badge.id&left_color=cadetblue&right_color=mediumturquoise)
-  
+ 
 <!---
 mlhuynh/mlhuynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
