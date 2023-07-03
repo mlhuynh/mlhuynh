@@ -2,7 +2,7 @@
 
 <img align='left' src="https://user-images.githubusercontent.com/112219182/188272138-60e62297-a4a6-4cfe-919d-e481493a7386.gif" width="125">
 <p align="justify">
-Welcome to my nook of the digital world! I am an environmentalist currently aspiring to transition into software engineering as a self-taught programmer. Although this marks the humble beginning of my journey, I have an insatiable drive to constantly learn and grow. 🌱  My passion for coding lies in ultimately creating useful applications that will add value, establish meaningful user impact, or reshape the future of social justice and sustainability. 
+Welcome to my nook of the digital world! I am an environmentalist currently aspiring to transition into software engineering. Although this marks the humble beginning of my journey, I have an insatiable drive to learn and grow. 🌱  Currently, I am a student at Ada Developers Academy. My passion for coding lies in ultimately creating useful applications that will add value or establish meaningful user impact. In further developing my programming skills, I hope to reshape the future intersection of tech, social justice, and sustainability someday. 
 </p>
 
 <h2>&nbsp;A little more about my background and interests...</h2>
@@ -10,14 +10,10 @@ Welcome to my nook of the digital world! I am an environmentalist currently aspi
 ```python
 my_profile = {
   Pronouns: "she/they",
-  Coding_languages: ["Python", "HTML/CSS", "SQL", "VBA", "R"],
-  Education: {
-      2007: "Bachelors in Environmental Science",
-      2007: "Bachelors in Community, Environment, and Planning"
-      }
-  Currently_learning: ["More Python", "JavaScript", "React", "HTML/CSS", "Flask"],
-  Hobbies: ["Art", "Hiking/Exploring nature", "Piano", "Photography", "Getting lost in books", "Globe-trotting"],
-  Technical_fields_of_interest: ["UI/UX", "Web Development", "Machine Learning", "Data Science", "Blockchain Technology"]
+  Coding_languages: ["Python", "HTML", "SQL", "VBA", "R"],
+  Currently_learning: ["More Python", "JavaScript", "React", "CSS", "Flask"],
+  Hobbies: ["Art/Painting", "Hiking/Exploring nature", "Piano", "Photography", "Getting lost in books", "Globe-trotting"],
+  Technical_fields_of_interest: ["UI/UX", "Web Development", "Data Science", "Blockchain Technology"]
 }
 ```
 
