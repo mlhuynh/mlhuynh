@@ -11,9 +11,9 @@ Welcome to my nook of the digital world! I am an environmentalist currently aspi
 my_profile = {
   Pronouns: "she/they",
   Coding_languages: ["Python", "HTML", "SQL", "VBA", "R"],
-  Currently_learning: ["More Python", "JavaScript", "React", "CSS", "Flask"],
+  Currently_learning: ["Arduino", "Rasberry Pi", "JavaScript", "React", "CSS", "Flask"],
   Hobbies: ["Art/Painting", "Hiking/Exploring nature", "Piano", "Photography", "Getting lost in books", "Globe-trotting"],
-  Technical_fields_of_interest: ["UI/UX", "Web Development", "Data Science", "Blockchain Technology"]
+  Technical_fields_of_interest: ["UI/UX", "Web Development", "Data Science", "Machine Learning", "Blockchain Technology"]
 }
 ```
 
@@ -21,7 +21,9 @@ my_profile = {
 <h2> Currently working on: </h2>
 <img align='left' src="https://www.photofunky.net/output/image/c/2/3/4/c234ad/photofunky.gif" width="275">
 <p align="justify">
-Projects from Ada Developers Academy...
+<b>Capstone Project:</b> Ever curious if a plant could produce sound? Through hardwiring an Arduino unit, I aim to build a piece of hardware that enables humans to listen to any plant.
+
+Courtesy of Dr. Rongzhong Li and the brilliant folks at <a href="https://github.com/PetoiCamp">Petoi</a>, I am currently in the midst of assembling and programming an adorable open-source robot cat named Nybble.  One of my goals is to improve my programming skills enough to the point where I can contribute to my first open source project and learn from others.  More importantly, this <i>pawsome</i> robot cat will be the <i>purrfect</i> <s>distraction</s> companion for my feline...so she doesn't feel compelled to <s>disrupt</s> aid in my coding efforts.
 </p>
  
 <!---
